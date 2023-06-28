@@ -3,6 +3,7 @@
 #
 # Create directories for license activation
 #
+id -p
 
 sudo mkdir /Library/Application\ Support/Unity
 sudo chmod -R 777 /Library/Application\ Support/Unity
